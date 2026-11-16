@@ -1,0 +1,6 @@
+{
+  "name": "Pouria Business Cloud",
+  "description": "Multi-tenant SaaS business management, POS, inventory ledger, invoicing, and subscription platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
